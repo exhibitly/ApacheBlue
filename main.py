@@ -1,3 +1,4 @@
+# In Your Project, do pip install pybluez.
 import bluetooth
 
 def scan_devices():
